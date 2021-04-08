@@ -1,7 +1,7 @@
 {
-	"name": "arena-stuff-idunno",
-	"version": "1.1.1",
-	"description": "Removes the visual stat caps - see your stats for what they really are!",
+	"name": "observer-cup",
+	"version": "0.1.0",
+	"description": "Adds in the bosses from the A Promise is a Promise quest chain.",
 	"homepage": "https://github.com/EL20202/cc-uncapped-stats",
 	"prestart": "prestart.js",
 	"ccmodDependencies": {
