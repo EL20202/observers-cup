@@ -83,7 +83,7 @@
         },
         {
             "name": {
-                "en_US": "Peng King Dakara",
+                "en_US": "The Chilly Performer",
                 "langUid": 59,
                 "de_DE": "Einfache Bestien",
                 "zh_TW": "\u883b\u529b\u9b54\u7378<<A<<[CHANGED 2021\/01\/12]",
@@ -108,7 +108,7 @@
             "type": "DEFAULT",
             "medal": 0,
             "waves": [],
-            "map": "arena.observer.blue-hedgehag",
+            "map": "arena.observer.dakara",
             "bonuses": [
                 {
                     "type": "TIME",
@@ -158,7 +158,7 @@
         },
         {
             "name": {
-                "en_US": "Tiefsee Angler",
+                "en_US": "The Shadowed Lurker",
                 "langUid": 63,
                 "de_DE": "W\u00fcrfelwender",
                 "zh_TW": "\u9ab0\u5b50\u7279\u5de5<<A<<[CHANGED 2021\/01\/12]",
