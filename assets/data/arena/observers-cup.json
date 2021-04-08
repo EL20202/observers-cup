@@ -36,9 +36,9 @@
         "difficulty": "3",
         "level": 60,
         "banner": {
-            "src": "media\/gui\/arena-banners.png",
+            "src": "media\/gui\/observer-arena-banner.png",
             "offX": 0,
-            "offY": 64,
+            "offY": 0,
             "width": 280,
             "height": 64
         }
