@@ -41,7 +41,8 @@
             "offY": 0,
             "width": 280,
             "height": 64
-        }
+        },
+        "condition": "quest.unknown-warrior-5.solved"
     },
     "rounds": [
         {
