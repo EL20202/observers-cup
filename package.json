@@ -1,6 +1,6 @@
 {
 	"name": "observer-cup",
-	"version": "0.6.0",
+	"version": "0.6.1",
 	"description": "Adds in the bosses from the A Promise is a Promise quest chain to the arena.",
 	"homepage": "https://github.com/EL20202/cc-uncapped-stats",
 	"prestart": "prestart.js",
