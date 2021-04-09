@@ -1,3 +1,6 @@
 - fix ghost shark level
-- figure out why it autosaves in the pandza fight
 - point scaling (get others to test)
+
+
+solved:
+- figure out why it autosaves in the pandza fight (previous map had saving enabled)
