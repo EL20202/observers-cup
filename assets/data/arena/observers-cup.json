@@ -29,7 +29,7 @@
             "ja_JP": "EL2020"
         },
         "music": "challenge",
-        "rushMusic": "raidTheme",
+        "rushMusic": "bossRush",
         "mods": [
             "WEAPON_ADJUST"
         ],
