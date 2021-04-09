@@ -131,7 +131,7 @@
             
             "customCode": true,
             "camFocus": "PLAYER_SPAWN",
-            "platPoints": 155000,
+            "platPoints": 170000,
             "coins": 0,
             "objective": {
                 "en_US": "Beat a stronger version of the \\c[3]\\v[combat.name.minibosses\/cursed-sandshark]\\c[0] boss from \\c[3]\\v[area.heat-area.name]\\c[0]!",
@@ -142,7 +142,7 @@
                 "de_DE": "Besiege eine st\u00e4rkere Version von \\c[3]\\v[combat.name.minibosses\/cursed-sandshark]\\c[0], dem Boss aus dem \\c[3]\\v[area.heat-area.name]\\c[0]!",
                 "zh_TW": "\u64ca\u6557\u4f86\u81ea\\c[3]\\v[area.heat-area.name]\\c[0]\u7684\u5f37\u5316\u7248\\c[3]\\v[combat.name.minibosses\/cursed-sandshark]\\c[0]!<<A<<[CHANGED 2019\/04\/16]"
             },
-            "points": 120000,
+            "points": 130000,
             "type": "DEFAULT",
             "medal": 0,
             "waves": [],
@@ -150,8 +150,8 @@
             "bonuses": [
                 {
                     "type": "TIME",
-                    "seconds": 165,
-                    "points": 30000
+                    "seconds": 210,
+                    "points": 50000
                 }
             ],
             "spawn": "PLAYER_SPAWN"
@@ -207,7 +207,7 @@
             
             "customCode": true,
             "camFocus": "PLAYER_SPAWN",
-            "platPoints": 120000,
+            "platPoints": 275000,
             "coins": 0,
             "objective": {
                 "en_US": "Beat a stronger version of the \\c[3]\\v[combat.name.minibosses\/panda-boss]\\c[0] boss from \\c[3]\\v[area.forest.name]\\c[0]!",
@@ -218,7 +218,7 @@
                 "de_DE": "Besiege eine st\u00e4rkere Version von \\c[3]\\v[combat.name.minibosses\/panda-boss]\\c[0], dem Boss aus dem \\c[3]\\v[area.forest.name]\\c[0]!",
                 "zh_TW": "\u64ca\u6557\u4f86\u81ea\\c[3]\\v[area.forest.name]\\c[0]\u7684\u5f37\u5316\u7248\\c[3]\\v[combat.name.minibosses\/panda-boss]\\c[0]!<<A<<[CHANGED 2019\/04\/16]"
             },
-            "points": 95000,
+            "points": 200000,
             "type": "DEFAULT",
             "medal": 0,
             "waves": [],
@@ -226,8 +226,8 @@
             "bonuses": [
                 {
                     "type": "TIME",
-                    "seconds": 80,
-                    "points": 25000
+                    "seconds": 300,
+                    "points": 75000
                 }
             ],
             "spawn": "PLAYER_SPAWN"
