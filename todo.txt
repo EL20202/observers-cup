@@ -2,11 +2,11 @@
 
 future list:
 - add rewards for completion (possibly custom weapons? :eyes:)
-  - broken gauntlet -> 
-  - broken shield -> unwavering aegis [high defense and resistances]
-  - broken sword -> 
-  - broken deck -> trickster's cards [likely focus/status rush/sp regen... probably would be a little OP]
-  - broken chakrams -> 
+  - broken gauntlet -> restored gauntlet -> ???
+  - broken shield -> restored shield -> unwavering aegis [high defense and resistances]
+  - broken sword -> restored sword -> grandmaster's blade [name likely to change]
+  - broken deck -> restored deck -> trickster's suits [likely focus/status rush/sp regen... probably would be a little OP]
+  - broken chakrams -> restored chakrams -> ???
 
 solved:
 - figure out why it autosaves in the pandza fight (previous map had saving enabled)
