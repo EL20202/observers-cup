@@ -1,6 +1,13 @@
-- fix ghost shark level
 - point scaling (get others to test)
 
+future list:
+- add rewards for completion (possibly custom weapons? :eyes:)
+  - broken gauntlet -> 
+  - broken shield -> unwavering aegis [high defense and resistances]
+  - broken sword -> 
+  - broken deck -> trickster's cards [likely focus/status rush/sp regen... probably would be a little OP]
+  - broken chakrams -> 
 
 solved:
 - figure out why it autosaves in the pandza fight (previous map had saving enabled)
+- fix ghost shark level (patchsteps ftw)
