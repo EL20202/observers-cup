@@ -1,4 +1,4 @@
-# observers-cup
+# The Observer's Cup
 Adds a new arena cup to CrossCode that allows refighting of the A Promise is a Promise minibosses. 
 
 Requires CrossCode v1.4.0 or greater, and CCLoader v2.20 or above.
